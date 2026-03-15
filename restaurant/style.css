@@ -1,0 +1,53 @@
+*{
+    padding:0;
+    margin:0;
+}
+.heading{
+    text-align:center;
+    background-color:black;
+}
+.title{
+    color:white;
+}
+.detail{
+    color:grey;
+    padding:20px;
+}
+.foods{
+    text-align:center;   
+}
+.pic{
+    border-color:black;
+    border-width: 2px;
+    border-style:solid;
+    display:inline-block;
+    padding: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.contact{
+    background-color:black;
+    text-align:center;
+}
+.one{
+    color:white;
+    padding-top:20px;
+}
+.two{
+    color:white; 
+  
+}
+.pic:hover{
+    color:blueviolet;
+    background-color: greenyellow;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
